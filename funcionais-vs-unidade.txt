@@ -1,0 +1,3 @@
+- Os testes de unidade são testes de "white box", ou seja, o desenvolvedor conhece o código que está sendo implementado.
+Já os testes funcionais são testes de "black box", ou seja, tester não conhece o código que foi implementado.
+- Os testes de unidade mudam frequentemente, enquanto os testes funcionais mudam com uma frequencia menor.
