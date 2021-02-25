@@ -1,0 +1,3 @@
+A diferença do tdd no nosso projeto é que ele consiste num tdd com uma camada interna, também de um tdd.
+No nosso projeto, quando estamos na camada de escrever um código minimo para os testes funcionais, invocamos novamente
+o princípio de tdd para testar e implementar os testes de unidade.
